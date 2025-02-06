@@ -1,2 +1,2 @@
-this is jenkins, a devops tool to write ci/cd pipelines
+This is jenkins, a devops tool to write ci/cd pipelines
 we write pipelines to automate build,test,deploy
